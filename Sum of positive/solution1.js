@@ -15,3 +15,5 @@ function positiveSum(arr) {
     }
     return sum;
 }
+
+export default positiveSum;

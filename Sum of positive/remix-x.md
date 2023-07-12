@@ -14,6 +14,15 @@
 
 ## Strategy
 
+🖊️ You get an array of numbers, return the sum of all of the positives ones.
+
+📓 In this problem all numbers are checked, only positive numbers are selected
+and the sum of these numbers is returned, and negative numbers are ignored.
+
+📓 Declare a valuable to which the accumulated numbers are added. Then search
+the array and, if th number is positive, add to the variable, otherwise ignore
+this number.
+
 ## Implementation
 
 ## Possible Refactors
